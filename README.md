@@ -1,2 +1,2 @@
 # git-github
-THis is for tutorial purpose.
+THis is for tutorial purpose only.
